@@ -1,0 +1,19 @@
+{
+  "name": "hk-react-course",
+  "version": "1.0.0",
+  "description": "React course from HK Uni on Coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiji7331/hk-react-course.git"
+  },
+  "author": "Kyle Seay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiji7331/hk-react-course/issues"
+  },
+  "homepage": "https://github.com/taiji7331/hk-react-course#readme"
+}
