@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/taiji7331/hk-react-course/issues"
   },
-  "homepage": "https://github.com/taiji7331/hk-react-course#readme"
+  "homepage": "https://github.com/taiji7331/hk-react-course#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
