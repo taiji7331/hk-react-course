@@ -15,10 +15,10 @@ function About(props) {
       return(
         <div className="col-12 m-5" key={leader.id}>
           <Media tag="ul" className="row">
-            <Media left middle className="col-2">
+            <Media left middle className="col-3 col-md-2">
               <Media object src={leader.image} alt={leader.name} />
             </Media>
-            <Media body className="ml-5 col-10">
+            <Media body className="ml-5 col-9">
               <Media heading>{leader.name}</Media>
               <Media className="mb-3">{leader.designation}</Media>
               <p>{leader.description}</p>
@@ -72,7 +72,7 @@ function About(props) {
           <Card>
             <CardBody className="bg-faded">
               <blockquote className="blockquote">
-                <p className="mb-0">You better cut the pizza in four pieces because
+                <p className="mt-1">You better cut the pizza in four pieces because
                   I'm not hungry enough to eat six.</p>
                 <footer className="blockquote-footer">Yogi Berra,
                 <cite title="Source Title">The Wit and Wisdom of Yogi Berra,
