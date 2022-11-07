@@ -201,6 +201,14 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "rating": "1",
+      "author": "Testy Kun",
+      "comment": "Testing if the rating works without selecting it",
+      "date": "2022-11-07T13:14:49.027Z",
+      "id": 20
     }
   ],
   "promotions": [
